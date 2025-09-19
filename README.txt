@@ -1,3 +1,5 @@
+Project has a Automation Basic Framework with Few Api tests
+
 Install Python
 python –version
 pip install selenium pytest
