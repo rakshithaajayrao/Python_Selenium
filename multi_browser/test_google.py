@@ -9,9 +9,6 @@ sys.path.insert(0, project_root)
 from report_creator.report_writer import ReportWriter
 from browser_factory import BrowserFactory
 
-#print("sys.path:", sys.path)
-#print("Looking for report_creator in:", project_root)
-
 test_name = "test_google"  #  Define test_name before using it
 report = ReportWriter(test_name)
 
